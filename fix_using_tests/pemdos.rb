@@ -3,7 +3,6 @@
 def snake_it_up(string = "ur" )
   if string[0] == "s"
     string = "sssssssss" + string
-    end
   end
  string
 end
